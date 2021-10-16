@@ -33,7 +33,7 @@ void deleteLessThan (int *A, int *nA, int x) {
 int main () {
 	int marks[200] = {3, -17, 8, 71, -43, -68, 31, -10, 100};
 	int nA = 9;
-    int x = 0;
+   	int x = 0;
 	
 	for (int j = 0; j < nA; j++) {
 		printf (" %i ", marks[j]);
